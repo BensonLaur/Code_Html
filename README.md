@@ -1,6 +1,6 @@
 # Code_Html
 
-The Repository(仓库) is for the project that aim to convet programing Language 
+The Repository(仓库) is for the project that aim to convet programming Language 
 source files such as C\C++(.c.h),java(.java) into html files.
 
 The html files, which can show the code in a specific way—— the codes 
